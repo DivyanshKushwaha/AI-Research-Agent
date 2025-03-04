@@ -32,6 +32,12 @@ D:/Research-Agent
 
 ## 🚀 Setup Instructions
 
+### Clone the repository (command in powershell)
+```bash
+git clone https://github.com/DivyanshKushwaha/AI-Research-Agent.git
+```
+
+
 ### 1️⃣ Backend (FastAPI)
 ```bash
 cd backend
