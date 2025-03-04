@@ -183,7 +183,7 @@ git clone https://github.com/DivyanshKushwaha/AI-Research-Agent.git
 ```bash
 cd backend
 pip install -r requirements.txt
-uvicorn main:app --reload
+python main.py
 ```
 - Server runs at: `http://127.0.0.1:8000`
 
