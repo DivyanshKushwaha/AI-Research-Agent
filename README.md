@@ -1,4 +1,4 @@
-# 🚀 AI Agent-Based Deep Research System
+# AI Agent-Based Deep Research System
 
 This project is a **Deep Research AI Agentic System** that automates online information gathering using **Tavily** and generates structured research summaries using **LangGraph & LangChain**. The system consists of a **FastAPI backend** and a **Streamlit frontend**, providing a seamless and interactive user experience.
 
@@ -10,7 +10,7 @@ The system is built using:
 - **Streamlit** as the frontend UI
 
 
-## ✨ Features
+## Features
 - **Dual-Agent System:** One agent for research and data collection, another for summarization.
 - **Tavily Web Search:** Fetches relevant data from the internet.
 - **Gemini AI (Google):** Generates well-structured research summaries.
@@ -19,7 +19,7 @@ The system is built using:
 
 ---
 
-## 🛠 Project Structure
+## Project Structure
 ```bash
 D:/Research-Agent
 │   .gitignore
