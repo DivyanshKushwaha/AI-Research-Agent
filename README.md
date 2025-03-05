@@ -10,6 +10,8 @@ The system is built using:
 - **Streamlit** as the frontend UI
 
 
+![Image](https://github.com/user-attachments/assets/01e23479-3118-4282-9c42-99370decf0a3)
+
 ## Features
 - **Dual-Agent System:** One agent for research and data collection, another for summarization.
 - **Tavily Web Search:** Fetches relevant data from the internet.
