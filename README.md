@@ -183,8 +183,8 @@ git clone https://github.com/DivyanshKushwaha/AI-Research-Agent.git
 
 ### Backend (FastAPI)
 ```bash
-cd backend
 pip install -r requirements.txt
+cd backend
 python main.py
 ```
 - Server runs at: `http://127.0.0.1:8000`
@@ -192,7 +192,6 @@ python main.py
 ### Frontend (Streamlit)
 ```bash
 cd frontend
-pip install -r requirements.txt
 streamlit run app.py
 ```
 - UI available at: `http://localhost:8501`
